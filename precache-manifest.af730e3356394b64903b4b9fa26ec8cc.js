@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be424eb181f6d320c2c076b00d834ecb",
+    "revision": "6b1a3aeaca4015ed87ad855445b2e83f",
     "url": "/my-world-map/index.html"
   },
   {
-    "revision": "e524c884b172cc42092d",
+    "revision": "852c811d66c6d96d2e64",
     "url": "/my-world-map/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-world-map/static/js/2.872de2d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e524c884b172cc42092d",
-    "url": "/my-world-map/static/js/main.b316ecc9.chunk.js"
+    "revision": "852c811d66c6d96d2e64",
+    "url": "/my-world-map/static/js/main.7f4c53b0.chunk.js"
   },
   {
     "revision": "e5147dbde30e7714a13c",
