@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-world-map/static/css/main.d1b05096.chunk.css",
+    "main.js": "/my-world-map/static/js/main.b316ecc9.chunk.js",
+    "main.js.map": "/my-world-map/static/js/main.b316ecc9.chunk.js.map",
+    "runtime-main.js": "/my-world-map/static/js/runtime-main.ef641298.js",
+    "runtime-main.js.map": "/my-world-map/static/js/runtime-main.ef641298.js.map",
+    "static/js/2.872de2d6.chunk.js": "/my-world-map/static/js/2.872de2d6.chunk.js",
+    "static/js/2.872de2d6.chunk.js.map": "/my-world-map/static/js/2.872de2d6.chunk.js.map",
+    "index.html": "/my-world-map/index.html",
+    "precache-manifest.f1671fb1fb0ac5a503368235255f7657.js": "/my-world-map/precache-manifest.f1671fb1fb0ac5a503368235255f7657.js",
+    "service-worker.js": "/my-world-map/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/my-world-map/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.872de2d6.chunk.js.LICENSE.txt": "/my-world-map/static/js/2.872de2d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef641298.js",
+    "static/js/2.872de2d6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b316ecc9.chunk.js"
+  ]
+}
